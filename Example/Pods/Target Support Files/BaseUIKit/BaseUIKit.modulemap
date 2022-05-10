@@ -1,0 +1,6 @@
+framework module BaseUIKit {
+  umbrella header "BaseUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
